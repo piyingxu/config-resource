@@ -1,1 +1,6 @@
-
+test:
+  name: piyingxu
+  age: 20
+  address:
+    province: hubei
+    city: xianning
